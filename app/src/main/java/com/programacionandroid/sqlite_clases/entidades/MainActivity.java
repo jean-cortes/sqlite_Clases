@@ -11,7 +11,7 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.programacionandroid.sqlite_clases.R;
+import com.programacionandroid.practica_sqlite.R;
 import com.programacionandroid.sqlite_clases.db.DBHelper;
 
 public class MainActivity extends AppCompatActivity {

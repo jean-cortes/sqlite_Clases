@@ -9,7 +9,7 @@ import android.widget.Toast;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.programacionandroid.sqlite_clases.R;
+import com.programacionandroid.practica_sqlite.R;
 import com.programacionandroid.sqlite_clases.db.dbContactos;
 
 public class NewActivity extends AppCompatActivity {
